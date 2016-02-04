@@ -1,5 +1,5 @@
-# CHANN ![Job](./badges/job-true.svg)
-<!--![Job](./badges/hire-me-true.svg)-->
+# CHANN ![Job](https://chann.kr/img/badges/job-true.svg)
+<!--![Job](https://chann.kr/img/badges/hire-me-true.svg)-->
 
 <a href="https://blog.chann.kr">![Blog](https://chann.kr/img/badges/blog-chann-black.svg)</a>
 <a href="mailto:chann@chann.kr">![Email](https://chann.kr/img/badges/email-chann-red.svg)</a>
