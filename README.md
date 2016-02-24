@@ -10,15 +10,6 @@
 
 > WIP
 
-## Cover
-> 작성중
-
-I'd like to make something, So I made my own homepage when I was ten years old(2000). That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous kid who loves the computer and technology.
-
-Now I'm interested in 
-
-------
-
 ## Profile
 //something...
 
