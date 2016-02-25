@@ -13,7 +13,7 @@
 ## Who am I
 I'm CHANN(Heechan Bak), a 26-year-old novice programmer from Seoul, South Korea. I was developer of [KUPLEZONE](https://kuple.kr), Korea University(Sejong) online community service.
 
-I'd like to make something, So I made my own homepage using HTML, PHP when I was ten years old(2000). That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous kid who loves the computer and technology.
+I'd like to make something, So I made my own homepage using HTML, PHP when I was ten years old(2000). That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous boy who loves the computer and technology.
 
 Now I'm interested in Python, C/C++, Java, HTML, CSS, JS, Node.js, React, ...and all kinds of programming. But my major focus is on web, mobile, server, machine learning, automation, etc. I also have skills in other fields like design, UX, and midi composition. I am enthusiastic person with fast adapting skills in new environments.
 
