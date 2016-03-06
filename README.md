@@ -63,11 +63,16 @@ I love to attend online courses, online judge, etc.
 
 ## Skills
 #### Programming
-- Python, Django
-- C/C++
-- Java
-- PHP
-- HTML, CSS, JS
+- Python, Django (5/10)
+- C/C++ (6/10)
+- Java (5/10)
+- PHP (4/10)
+- Ruby on Rails (2/10)
+- HTML, CSS, JS (7/10)
+- Objective C (2/10)
+- Android (2/10)
+- Shell (3/10)
+- Apache2, Ngnix (3/10)
 
 #### Design
 - Adobe Photoshop, Illustrator
@@ -87,9 +92,13 @@ I love to attend online courses, online judge, etc.
 <a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>  
 <a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>  
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://chann.kr/img/badges/linkedin-chann.svg)</a>
+<a href="https://www.behance.net/chann">Behance</a> - WIP
+<a href="https://dribbble.com/channprj">Dribbble</a> - WIP
 
 ------
 
 ## Etc
 * [Today I Learned](https://til.chann.kr)
 * [Personal Dev Wiki](https://wiki.chann.kr)
+
+For more information, Contact me on <a href="mailto:chann@chann.kr">Email</a>.
