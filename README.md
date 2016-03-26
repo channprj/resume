@@ -11,7 +11,7 @@
 > WIP
 
 ## Who am I
-I'm CHANN(Heechan Bak), a 26-year-old novice programmer from Seoul, South Korea. I was developer of [KUPLEZONE](https://kuple.kr), Korea University(Sejong) online community service.
+I'm CHANN(Heechan Bak), a 26-year-old developer from Seoul, South Korea. I was developer of [KUPLEZONE](https://kuple.kr), Korea University(Sejong) online community service.
 
 I'd like to make something, So I made my own homepage using HTML, PHP when I was ten years old(2000). That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous boy who loves the computer and technology.
 
