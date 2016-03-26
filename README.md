@@ -52,6 +52,7 @@ Now I'm interested in Python, C/C++, Java, HTML, CSS, JS, Node.js, React, ...and
 #### Online
 I love to attend online courses, online judge, etc.
 
+* [Udacity](https://profiles.udacity.com/u/heechanbak)
 * [Codecademy](https://www.codecademy.com/channprj)
 * [Hackerrank](https://www.hackerrank.com/channprj)
 * [Algospot](https://algospot.com/user/profile/16184)
@@ -92,8 +93,8 @@ I love to attend online courses, online judge, etc.
 <a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>  
 <a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>  
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://chann.kr/img/badges/linkedin-chann.svg)</a>
-<a href="https://www.behance.net/chann">Behance</a> - WIP
-<a href="https://dribbble.com/channprj">Dribbble</a> - WIP
+<a href="https://www.behance.net/chann">Behance - WIP</a>
+<a href="https://dribbble.com/channprj">Dribbble - WIP</a>
 
 ------
 
