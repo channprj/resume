@@ -27,6 +27,7 @@ Now I'm interested in Python, C/C++, Java, HTML, CSS, JS, Node.js, React, ...and
 
 ## Experience
 > WIP
+
 1. NHN Entertainment 1st CodeCamp
 
 ------
@@ -48,17 +49,16 @@ Now I'm interested in Python, C/C++, Java, HTML, CSS, JS, Node.js, React, ...and
 	- A course in [Wearable Device Programming(IoT)](http://www.rndacademy.or.kr/edu/edu05_iot.asp)
 	- Coursework: Android, JSP, IoT, Server, API
 
-
 #### Online
 I love to attend online courses, online judge, etc.
 
 * [Udacity](https://profiles.udacity.com/u/heechanbak)
+* [Baekjoon Online Judge](https://www.acmicpc.net/user/channprj)
 * [Codecademy](https://www.codecademy.com/channprj)
+* [Codewars](http://www.codewars.com/users/channprj)
 * [Hackerrank](https://www.hackerrank.com/channprj)
 * [Algospot](https://algospot.com/user/profile/16184)
-* [Baekjoon Online Judge](https://www.acmicpc.net/user/channprj)
 * [etc...](#)
-
 
 ------
 
@@ -93,8 +93,10 @@ I love to attend online courses, online judge, etc.
 <a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>  
 <a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>  
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://chann.kr/img/badges/linkedin-chann.svg)</a>
-<!--<a href="https://www.behance.net/chann">Behance - WIP</a>-->
-<!--<a href="https://dribbble.com/channprj">Dribbble - WIP</a>-->
+
+<a href="https://www.behance.net/chann">Behance - WIP</a>
+
+<a href="https://dribbble.com/channprj">Dribbble - WIP</a>
 
 ------
 
