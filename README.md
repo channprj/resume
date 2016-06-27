@@ -28,24 +28,27 @@ Now I'm interested in Python, C/C++, Java, HTML, CSS, JS, Node.js, React, ...and
 ## Experience
 > WIP
 
-1. NHN Entertainment 1st CodeCamp
+1. NHN Entertainment 1st CodeCamp (2015.06 ~ 2015.08)
 
 ------
 
 ## Education
 #### Degree
-1. Korea University(Sejong Campus)
+1. Korea University Sejong Campus (2010.03 ~ 2016.02)
 	- BS in [Computer and Information Science](http://kucis.korea.ac.kr) from [Science and Technology](http://st.korea.ac.kr)
-	- Coursework: //something...
-2. Korea University
+
+<!--	- Coursework: //something...-->
+
+2. Korea University (2012.03 ~ 2016.02)
 	- BS in [Brain and Cognitive Science](http://brain.korea.ac.kr/bcs/) from [Brain and Cognitive Engineering](http://brain.korea.ac.kr/)
-	- Coursework: //something...
+
+<!--	- Coursework: //something...-->
 
 #### Courses
-* Seoul National University(Institute of Computer Technology)
+* Seoul National University, Institute of Computer Technology (2014.07 ~ 2014.09)
 	- A course in [Multicore Programming](http://aces.snu.ac.kr/edu/) on [supercomputer(Chundoong)](http://manycoresoft.co.kr/resources/case_studies/chundoong.shtml)
 	- Coursework: C, Linux, Pthread, OpenMP, OpenCL, MPI
-* Korea Productivity Center(KPC)
+* Korea Productivity Center (2015.07 ~ 2015.08)
 	- A course in [Wearable Device Programming(IoT)](http://www.rndacademy.or.kr/edu/edu05_iot.asp)
 	- Coursework: Android, JSP, IoT, Server, API
 
@@ -64,25 +67,35 @@ I love to attend online courses, online judge, etc.
 
 ## Skills
 #### Programming
-- Python, Django (5/10)
-- C/C++ (6/10)
-- Java (5/10)
-- PHP (4/10)
-- Ruby on Rails (2/10)
-- HTML, CSS, JS (7/10)
-- Objective C (2/10)
-- Android (2/10)
-- Shell (3/10)
-- Apache2, Ngnix (3/10)
+| Degree       | Description                                        |
+|--------------|----------------------------------------------------|
+| Beginner     | Getting started and still need support from others |
+| Basic        | Can read and write code, but not yet comfortable   |
+| Intermediate | Fairly comfortable, though at times need to reference Google or Stack Overflow |
+| Advanced     | Able to teach or advise others                     |
+| Expert       | I can do everything what I want                    |
+
+- Python, Django (6/10, Intermediate Mid)
+- C/C++ (6/10, Intermediate Mid)
+- Java (5/10, Basic High)
+- PHP (4/10, Basic High)
+- Ruby on Rails (3/10, Beginner High)
+- HTML, CSS, JS (7/10, Intermediate High)
+- Objective C (2/10, Beginner Mid)
+- Android (2/10, Beginner Mid)
+- Shell (3/10, Basic Low)
+- Apache2, Ngnix (3/10, Basic Low)
+- Git (8/10, Advanced Low)
 
 #### Design
-- Adobe Photoshop, Illustrator
-- Sketch 3
+- Adobe Photoshop, Illustrator (Intermediate)
+- Sketch 3 (Intermediate)
 
 ------
 
 ## Recent Activities
 * Blog Post: [Moving AWS Tokyo to Seoul](https://blog.chann.kr/moving-aws-tokyo-to-seoul/)
+* Git and Github assistant teacher
 
 
 ------
@@ -93,10 +106,6 @@ I love to attend online courses, online judge, etc.
 <a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>  
 <a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>  
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://chann.kr/img/badges/linkedin-chann.svg)</a>
-
-<a href="https://www.behance.net/chann">Behance - WIP</a>
-
-<a href="https://dribbble.com/channprj">Dribbble - WIP</a>
 
 ------
 
