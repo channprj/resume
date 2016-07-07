@@ -66,7 +66,6 @@ I love to attend online courses, online judge, etc.
 ------
 
 ## Skills
-#### Programming
 | Degree       | Description                                        |
 |--------------|----------------------------------------------------|
 | Beginner     | Getting started and still need support from others |
@@ -75,6 +74,7 @@ I love to attend online courses, online judge, etc.
 | Advanced     | Able to teach or advise others                     |
 | Expert       | I can do everything what I want                    |
 
+#### Programming
 - Python, Django (6/10, Intermediate Mid)
 - C/C++ (6/10, Intermediate Mid)
 - Java (5/10, Basic High)
