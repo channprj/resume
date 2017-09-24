@@ -2,7 +2,7 @@ title: CHANN
 description: Shoveling Programmer
 google_analytics: UA-65628430-5
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
