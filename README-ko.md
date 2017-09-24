@@ -7,7 +7,7 @@
 <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
-> WIP
+> 작성중입니다.
 
 ## Who am I
 I'm CHANN(Heechan Bak), a 26-year-old developer from Seoul, South Korea. I was developer of [KUPLEZONE](https://kuple.kr), Korea University(Sejong) online community service.
@@ -65,7 +65,6 @@ I love to attend online courses, online judge, etc.
 ------
 
 ## Skills
-#### Programming
 | Degree       | Description                                        |
 |--------------|----------------------------------------------------|
 | Beginner     | Getting started and still need support from others |
@@ -74,6 +73,7 @@ I love to attend online courses, online judge, etc.
 | Advanced     | Able to teach or advise others                     |
 | Expert       | I can do everything what I want                    |
 
+#### Programming
 - Python, Django (6/10, Intermediate Mid)
 - C/C++ (6/10, Intermediate Mid)
 - Java (5/10, Basic High)
@@ -99,12 +99,11 @@ I love to attend online courses, online judge, etc.
 
 ------
 
-## Social
-<a href="https://blog.chann.kr">![Blog](https://chann.kr/img/badges/blog-chann-black.svg)</a>
-<a href="https://twitter.com/channprj">![Twitter](https://chann.kr/img/badges/twitter-chann.svg)</a>
-<a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>
-<a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>
-<a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://chann.kr/img/badges/linkedin-chann.svg)</a>
+## Social Accounts
+<a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
+<a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
+<a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
+<a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
 ------
 
