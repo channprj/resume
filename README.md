@@ -1,12 +1,11 @@
-# CHANN ![Job](https://chann.kr/img/badges/job-true.svg)
-<!--![Job](https://chann.kr/img/badges/hire-me-true.svg)-->
+# CHANN ![Job](https://img.shields.io/badge/looking__for__job-true-brightgreen.svg)
 
-<a href="https://blog.chann.kr">![Blog](https://chann.kr/img/badges/blog-chann-black.svg)</a>
-<a href="mailto:chann@chann.kr">![Email](https://chann.kr/img/badges/email-chann-red.svg)</a>
-<a href="https://twitter.com/channprj">![Twitter](https://chann.kr/img/badges/twitter-chann.svg)</a>
-<a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>
-<a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>
-<a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://chann.kr/img/badges/linkedin-chann.svg)</a>
+<a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
+<a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
+<a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
+<a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
+<a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
+<a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
 > WIP
 
@@ -101,10 +100,10 @@ I love to attend online courses, online judge, etc.
 ------
 
 ## Social
-<a href="https://blog.chann.kr">![Blog](https://chann.kr/img/badges/blog-chann-black.svg)</a>  
-<a href="https://twitter.com/channprj">![Twitter](https://chann.kr/img/badges/twitter-chann.svg)</a>  
-<a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>  
-<a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>  
+<a href="https://blog.chann.kr">![Blog](https://chann.kr/img/badges/blog-chann-black.svg)</a>
+<a href="https://twitter.com/channprj">![Twitter](https://chann.kr/img/badges/twitter-chann.svg)</a>
+<a href="https://fb.com/channprj">![Facebook](https://chann.kr/img/badges/facebook-chann.svg)</a>
+<a href="https://instagram.com/channprj">![Instagram](https://chann.kr/img/badges/instagram-chann.svg)</a>
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://chann.kr/img/badges/linkedin-chann.svg)</a>
 
 ------
