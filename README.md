@@ -10,11 +10,11 @@
 > Work in Progress
 
 ## Who am I
-I'm CHANN(Heechan Bak), a 26-year-old developer from Seoul, South Korea. I was developer of [KUPLEZONE](https://kuple.kr), Korea University(Sejong) online community service.
+I'm CHANN(Heechan Bak), a 27-year-old developer from Seoul, South Korea. I was developer of [KUPLEZONE](https://kuple.kr), Korea University(Sejong) online community service.
 
 I'd like to make something, So I made my own homepage using HTML, PHP when I was ten years old(2000). That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous boy who loves the computer and technology.
 
-Now I'm interested in Python, C/C++, Java, HTML, CSS, JS, Node.js, React, ...and all kinds of programming. But my major focus is on web, mobile, server, machine learning, automation, etc. I also have skills in other fields like design, UX, and midi composition. I am enthusiastic person with fast adapting skills in new environments.
+Now I'm interested in Python, Golang, Java, HTML, CSS, JS, Node.js, React, ...and all kinds of programming. But my major focus is on web, mobile, server, machine learning, automation, etc. I also have skills in other fields like design, UX, and midi composition. I am enthusiastic person with fast adapting skills in new environments.
 
 ------
 
@@ -25,9 +25,14 @@ Now I'm interested in Python, C/C++, Java, HTML, CSS, JS, Node.js, React, ...and
 ------
 
 ## Experience
-> WIP
-
-1. NHN Entertainment 1st CodeCamp (2015.06 ~ 2015.08)
+- [NHN Entertainment](http://www.nhnent.com) 1st CodeCamp (2015.06 ~ 2015.08) - Bootcamp of newbie developer
+  - [Frieday](https://github.com/channprj/frieday) - Gamification service of ordering chicken ([slide](https://www.slideshare.net/channprj/frieday))
+- [Cafe24](https://www.cafe24.com) (2016.08 ~ 2017.04) - Server Development Team
+  - Server Configuration Checker
+  - Autoscaling Server Test Automation
+  - Etc...
+- [LAWDY](https://lawdy.kr) (2017.06 ~ )
+- Etc (Other side projects...)
 
 ------
 
@@ -74,28 +79,19 @@ I love to attend online courses, online judge, etc.
 | Expert       | I can do everything what I want                    |
 
 #### Programming
-- Python, Django (6/10, Intermediate Mid)
-- C/C++ (6/10, Intermediate Mid)
-- Java (5/10, Basic High)
-- PHP (4/10, Basic High)
-- Ruby on Rails (3/10, Beginner High)
-- HTML, CSS, JS (7/10, Intermediate High)
-- Objective C (2/10, Beginner Mid)
-- Android (2/10, Beginner Mid)
-- Shell (3/10, Basic Low)
-- Apache2, Ngnix (3/10, Basic Low)
-- Git (8/10, Advanced Low)
+- Python (Intermediate High)
+- C/C++ (Basic Mid)
+- Java (Basic High)
+- PHP (Intermediate Low)
+- HTML, CSS, JS (Intermediate High)
+- Shell (Basic Low)
+
+#### Tools
+> WIP
 
 #### Design
-- Adobe Photoshop, Illustrator (Intermediate)
-- Sketch 3 (Intermediate)
-
-------
-
-## Recent Activities
-* Blog Post: [Moving AWS Tokyo to Seoul](https://blog.chann.kr/moving-aws-tokyo-to-seoul/)
-* Git and Github assistant teacher
-
+- Adobe Photoshop, Illustrator (Intermediate Low)
+- Sketch 3 (Basic High)
 
 ------
 
@@ -108,7 +104,8 @@ I love to attend online courses, online judge, etc.
 ------
 
 ## Etc
-* [Today I Learned](https://til.chann.kr)
-* [Personal Dev Wiki](https://wiki.chann.kr)
+* [Today I Learned](https://til.chann.kr) - Deprecated
+* [Personal Dev Wiki](https://wiki.chann.kr) - Deprecated
+> WIP
 
 For more information, Contact me on <a href="mailto:chann@chann.kr">Email</a>.
