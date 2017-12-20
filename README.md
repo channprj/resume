@@ -7,67 +7,65 @@
 <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
-> Work in Progress
-
 ## Who am I
-I'm CHANN(Heechan Bak), a 27-year-old developer from Seoul, South Korea. I was developer of [KUPLEZONE](https://kuple.kr), Korea University(Sejong) online community service.
+I'm CHANN(Heechan Bak), a 27-year-old developer living in Seoul, South Korea. I usually produces code, photograph, article, and design. I ride a bicycle or watch movies as a hobby. Sometimes I chitchat on Twitter or brag about the food what I eat on Instagram.
 
-I'd like to make something, So I made my own homepage using HTML, PHP when I was ten years old(2000). That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous boy who loves the computer and technology.
+I'd like to make something when I was young, So I made my own homepage using HTML, PHP when I was ten years old in 2000. That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous boy who loves the computer and technology.
 
-Now I'm interested in Python, Golang, Java, HTML, CSS, JS, Node.js, React, ...and all kinds of programming. But my major focus is on web, mobile, server, machine learning, automation, etc. I also have skills in other fields like design, UX, and midi composition. I am enthusiastic person with fast adapting skills in new environments.
+Now I'm interested in Python, Golang, Node.js, React, ...and all kinds of programming. But my major focus is on server, container orchestration, web, machine learning, automation, etc. I also have skills in other fields like design and midi composition. I am enthusiastic person with fast adapting skills in new environments.
 
-------
+----
 
 ## Profile
 * **Name / Birth / Gender** : Heechan Bak / 1991 / M
-* **Language** : Korean(Native), English(Limited Working Prociency)
+* **Language** : Korean (Native), English (Limited Working Prociency)
 
-------
+----
 
 ## Experience
 - [NHN Entertainment](http://www.nhnent.com) 1st CodeCamp (2015.06 ~ 2015.08) - Bootcamp of newbie developer
-  - [Frieday](https://github.com/channprj/frieday) - Gamification service of ordering chicken ([slide](https://www.slideshare.net/channprj/frieday))
+    - [Frieday](https://github.com/channprj/frieday) - Gamification service of ordering chicken ([slide](https://www.slideshare.net/channprj/frieday))
 - [Cafe24](https://www.cafe24.com) (2016.08 ~ 2017.04) - Server Development Team
-  - Server Configuration Checker
-  - Autoscaling Server Test Automation
-  - Etc...
-- [LAWDY](https://lawdy.kr) (2017.06 ~ )
-- Etc (Other side projects...)
+    - Varnish Cache Checker (Python)
+    - Server / Application Configuration Checker (Python, Ansible)
+    - Autoscaling Server with Test Automation (Python, PHP)
+- Etc
 
-------
+### Personal Project
+- [KUPLEZONE](https://kuple.kr) (2010.02 ~ 2016.12) - Korea University (Sejong) Online Service
+- [LAWDY](https://lawdy.kr) (2017.06 ~ ) - Legaltech Service
+    - Questionnaire-based Standard Contract Generator
+    - *Contracts interact with a DApp (Decentralized Application) (Work In Progress)*
+
+----
 
 ## Education
-#### Degree
+### Degree
 1. Korea University Sejong Campus (2010.03 ~ 2016.02)
-	- BS in [Computer and Information Science](http://kucis.korea.ac.kr) from [Science and Technology](http://st.korea.ac.kr)
-
-<!--	- Coursework: //something...-->
+    - BS in [Computer and Information Science](http://kucis.korea.ac.kr) from [Science and Technology](http://st.korea.ac.kr)
 
 2. Korea University (2012.03 ~ 2016.02)
-	- BS in [Brain and Cognitive Science](http://brain.korea.ac.kr/bcs/) from [Brain and Cognitive Engineering](http://brain.korea.ac.kr/)
+    - BS in [Brain and Cognitive Science](http://brain.korea.ac.kr/bcs/) from [Brain and Cognitive Engineering](http://brain.korea.ac.kr/)
 
-<!--	- Coursework: //something...-->
-
-#### Courses
+### Courses
 * Seoul National University, Institute of Computer Technology (2014.07 ~ 2014.09)
-	- A course in [Multicore Programming](http://aces.snu.ac.kr/edu/) on [supercomputer(Chundoong)](http://manycoresoft.co.kr/resources/case_studies/chundoong.shtml)
-	- Coursework: C, Linux, Pthread, OpenMP, OpenCL, MPI
+    - A course in [Multicore Programming](http://aces.snu.ac.kr/edu/) on [supercomputer(Chundoong)](http://manycoresoft.co.kr/resources/case_studies/chundoong.shtml)
+    - Coursework: C, Linux, Pthread, OpenMP, OpenCL, MPI
 * Korea Productivity Center (2015.07 ~ 2015.08)
-	- A course in [Wearable Device Programming(IoT)](http://www.rndacademy.or.kr/edu/edu05_iot.asp)
-	- Coursework: Android, JSP, IoT, Server, API
+    - A course in [Wearable Device Programming(IoT)](http://www.rndacademy.or.kr/edu/edu05_iot.asp)
+    - Coursework: Android, JSP, IoT, Server, API
 
-#### Online
+### Online
 I love to attend online courses, online judge, etc.
 
+* [Hackerrank](https://www.hackerrank.com/channprj)
+* [Leet Code](https://leetcode.com/channprj/)
 * [Udacity](https://profiles.udacity.com/u/heechanbak)
-* [Baekjoon Online Judge](https://www.acmicpc.net/user/channprj)
 * [Codecademy](https://www.codecademy.com/channprj)
 * [Codewars](http://www.codewars.com/users/channprj)
-* [Hackerrank](https://www.hackerrank.com/channprj)
-* [Algospot](https://algospot.com/user/profile/16184)
-* [etc...](#)
+* etc...
 
-------
+----
 
 ## Skills
 | Degree       | Description                                        |
@@ -78,22 +76,51 @@ I love to attend online courses, online judge, etc.
 | Advanced     | Able to teach or advise others                     |
 | Expert       | I can do everything what I want                    |
 
-#### Programming
-- Python (Intermediate High)
-- C/C++ (Basic Mid)
-- Java (Basic High)
+### Programming Language
+- Python (Intermediate Mid)
+- Golang (Basic Mid)
+- Javascript (Basic High)
+- C/C++ (Basic Low)
+- Java (Basic Mid)
 - PHP (Intermediate Low)
-- HTML, CSS, JS (Intermediate High)
+- HTML, CSS (Intermediate High)
 - Shell (Basic Low)
 
-#### Tools
-> WIP
+### Backend
+- Django (Intermediate Low)
+- Flask (Intermediate Low)
+- REST API (Intermediate Low)
+- AWS (Basic High)
+- Docker (Basic High)
+- Swarm (Basic High)
 
-#### Design
-- Adobe Photoshop, Illustrator (Intermediate Low)
-- Sketch 3 (Basic High)
+### Frontend
+- Bootstrap (Intermediate Low)
+- Semantic UI (Intermediate High)
+- React.js (Beginner Low)
+- Vue.js (Beginner Low)
 
-------
+### Database
+- MariaDB (Basic High)
+- PostgreSQL (Basic High)
+- MongoDB (Beginner Mid)
+
+----
+
+## Preferred Tool
+- iTerm2 | Cmder
+- Visual Studio Code | Sublime Text
+- Vim (alias emacs='vim')
+- Pycharm
+- Postman | Paw
+
+----
+
+## Activity
+- [Git and Github Instructor](https://onoffmix.com/event/95827)
+- Pycon Korea (2016.10 ~ 2017.08)
+
+----
 
 ## Social Accounts
 <a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
@@ -101,11 +128,11 @@ I love to attend online courses, online judge, etc.
 <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
-------
+----
 
 ## Etc
 * [Today I Learned](https://til.chann.kr) - Deprecated
 * [Personal Dev Wiki](https://wiki.chann.kr) - Deprecated
 > WIP
 
-For more information, Contact me on <a href="mailto:chann@chann.kr">Email</a>.
+For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>.
