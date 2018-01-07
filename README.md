@@ -122,6 +122,20 @@ I love to attend online courses, online judge, etc.
 
 ----
 
+## Open Source Contributions
+### Pull Requests
+- Update: Translate Introduction in Korean [#145](https://github.com/tiimgreen/github-cheat-sheet/pull/145) in github-cheat-sheet
+- Init: Entrance [#99](https://github.com/pythonkr/pyconkr-2017/pull/99/commits/e771d4c2af0737a1f56ba5f82a46cd66535a76f1) in pyconkr-2017
+- Fix: Bithumb Bad Request(Auth Data) - Convert header value to string [#1030](https://github.com/ccxt/ccxt/pull/1030) in ccxt
+- Add: Bithumb Private API - Withdraw [#1077](https://github.com/ccxt/ccxt/pull/1077) in ccxt
+- Fix: Kakao OAuth Failure - Headers for authorization [#171](https://github.com/python-social-auth/social-core/pull/171) in python-social-auth
+
+### Issues
+- Fail to install OpenSSL on Ubuntu 14.04.4 LTS [#1053](https://github.com/Linuxbrew/legacy-linuxbrew/issues/1053) in linuxbrew
+- Download doesn't works in Chrome [#714](https://github.com/zealdocs/zeal/issues/714) in zealdocs
+
+----
+
 ## Social Accounts
 <a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
 <a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
