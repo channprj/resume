@@ -8,7 +8,7 @@
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
 ## Who am I
-I'm CHANN(Heechan Bak), a 27-year-old developer living in Seoul, South Korea. I usually produces code, photograph, article, and design. I ride a bicycle or watch movies as a hobby. Sometimes I chitchat on Twitter or brag about the food what I eat on Instagram.
+I'm CHANN(Heechan Bak), a 28-year-old developer living in Seoul, South Korea. I usually produces code, photograph, article, and design. I ride a bicycle or watch movies as a hobby. Sometimes I chitchat on Twitter or brag about the food what I eat on Instagram.
 
 I'd like to make something when I was young, So I made my own homepage using HTML, PHP when I was ten years old in 2000. That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous boy who loves the computer and technology.
 
