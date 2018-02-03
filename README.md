@@ -18,7 +18,7 @@ Now I'm interested in Python, Golang, Node.js, React, ...and all kinds of progra
 
 ## Profile
 * **Name / Birth / Gender** : Heechan Bak / 1991 / M
-* **Language** : Korean (Native), English (Limited Working Prociency)
+* **Language** : Korean (Native), English (Limited Working Proficiency)
 
 ----
 
