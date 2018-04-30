@@ -1,4 +1,4 @@
-# CHANN ![Job](https://img.shields.io/badge/looking__for__job-true-brightgreen.svg)
+# CHANN ![Job](https://img.shields.io/badge/looking__for__job-false-ff0000.svg)
 
 <a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
 <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
@@ -8,11 +8,11 @@
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
 ## Who am I
-I'm CHANN(Heechan Bak), a 28-year-old developer living in Seoul, South Korea. I usually produces code, photograph, article, and design. I ride a bicycle or watch movies as a hobby. Sometimes I chitchat on Twitter or brag about the food what I eat on Instagram.
+I'm CHANN(Heechan Bak), a 28-year-old developer living in Seoul, South Korea. I usually produce code, photograph, article, and design. I ride a bicycle or watch movies as a hobby. Sometimes I chitchat on [Twitter](https://twitter.com/channprj) or brag about the food what I eat on [Instagram](https://instagram.com/channprj). Check my [Blog](https://blog.chann.kr) for more information.
 
-I'd like to make something when I was young, So I made my own homepage using HTML, PHP when I was ten years old in 2000. That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic. I was a mischievous boy who loves the computer and technology.
+I'd like to make something when I was young, So I made my own homepage using HTML, PHP when I was ten years old in 2000. That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic.
 
-Now I'm interested in Python, Golang, Node.js, React, ...and all kinds of programming. But my major focus is on server, container orchestration, web, machine learning, automation, etc. I also have skills in other fields like design and midi composition. I am enthusiastic person with fast adapting skills in new environments.
+Now I'm interested in Python, Golang, Node.js, ...and all kinds of programming. But my major focus is on server, container orchestration, web, machine learning, automation, dapp, etc. I also have skills in other fields like design and midi composition. I am enthusiastic person with fast adapting skills in new environments.
 
 ----
 
@@ -29,13 +29,14 @@ Now I'm interested in Python, Golang, Node.js, React, ...and all kinds of progra
     - Varnish Cache Checker (Python)
     - Server / Application Configuration Checker (Python, Ansible)
     - Autoscaling Server with Test Automation (Python, PHP)
-- Etc
+- Private Part-Time Programming Jobs
+- ETC
 
 ### Personal Project
 - [KUPLEZONE](https://kuple.kr) (2010.02 ~ 2016.12) - Korea University (Sejong) Online Service
-- [LAWDY](https://lawdy.kr) (2017.06 ~ ) - Legaltech Service
+- [LAWDY](https://lawdy.kr) (2017.06 ~ 2017.11) - Legaltech Service
     - Questionnaire-based Standard Contract Generator
-    - *Contracts interact with a DApp (Decentralized Application) (Work In Progress)*
+    - ~~Contracts interact with a DApp (Decentralized Application) (Stopped)~~
 
 ----
 
@@ -49,7 +50,7 @@ Now I'm interested in Python, Golang, Node.js, React, ...and all kinds of progra
 
 ### Courses
 * Seoul National University, Institute of Computer Technology (2014.07 ~ 2014.09)
-    - A course in [Multicore Programming](http://aces.snu.ac.kr/edu/) on [supercomputer(Chundoong)](http://manycoresoft.co.kr/resources/case_studies/chundoong.shtml)
+    - A course in [Multicore Programming](http://aces.snu.ac.kr/) on [supercomputer(Chundoong)](http://manycoresoft.co.kr/resources/case_studies/chundoong.shtml)
     - Coursework: C, Linux, Pthread, OpenMP, OpenCL, MPI
 * Korea Productivity Center (2015.07 ~ 2015.08)
     - A course in [Wearable Device Programming(IoT)](http://www.rndacademy.or.kr/edu/edu05_iot.asp)
@@ -58,12 +59,13 @@ Now I'm interested in Python, Golang, Node.js, React, ...and all kinds of progra
 ### Online
 I love to attend online courses, online judge, etc.
 
-* [Hackerrank](https://www.hackerrank.com/channprj)
 * [Leet Code](https://leetcode.com/channprj/)
+* [Hackerrank](https://www.hackerrank.com/channprj)
 * [Udacity](https://profiles.udacity.com/u/heechanbak)
+* [Udemy](https://www.udemy.com/user/heechan-bak/)
 * [Codecademy](https://www.codecademy.com/channprj)
 * [Codewars](http://www.codewars.com/users/channprj)
-* etc...
+* ETC
 
 ----
 
@@ -77,48 +79,55 @@ I love to attend online courses, online judge, etc.
 | Expert       | I can do everything what I want                    |
 
 ### Programming Language
-- Python (Intermediate Mid)
-- Golang (Basic Mid)
-- Javascript (Basic High)
+- Python (Intermediate Mid, Flavored)
+- Golang (Intermediate Low, Flavored)
+- Javascript (Intermediate Low)
 - C/C++ (Basic Low)
-- Java (Basic Mid)
-- PHP (Intermediate Low)
+- Java (Basic Low)
+- PHP (Intermediate Low, Unfavored)
 - HTML, CSS (Intermediate High)
-- Shell (Basic Low)
+- Shell (Basic Mid)
 
 ### Backend
 - Django (Intermediate Low)
 - Flask (Intermediate Low)
+- Echo (Basic Mid)
+- Expressjs (Basic Mid)
 - REST API (Intermediate Low)
 - AWS (Basic High)
 - Docker (Basic High)
-- Swarm (Basic High)
-
-### Frontend
-- Bootstrap (Intermediate Low)
-- Semantic UI (Intermediate High)
-- React.js (Beginner Low)
-- Vue.js (Beginner Low)
-
-### Database
 - MariaDB (Basic High)
 - PostgreSQL (Basic High)
 - MongoDB (Beginner Mid)
 
+### Frontend
+- React.js (Intermediate Low)
+- Vue.js (Beginner Low)
+- Ant Design (Intermediate Low)
+- Semantic UI (Intermediate High)
+- Bootstrap (Intermediate Low)
+
 ----
 
 ## Preferred Tool
-- iTerm2 | Cmder
-- Visual Studio Code | Sublime Text
-- Vim (alias emacs='vim')
-- Pycharm
-- Postman | Paw
+- Macbook Pro or ThinkPad X1 Carbon
+- LG Ultra Fine 5K Display or Dell Ultra Sharp 4K Display
+- HHKB Pro2 or FC660C
+- iTerm2, Cmder, Hyper
+- Visual Studio Code, Sublime Text
+- Vim (`alias emacs='vim'`)
+- Pycharm, GoLand
+- HTTPie, Postman, Paw
+- Sketch, Photoshop, Illustrator
 
 ----
 
 ## Activity
+- [Pycon Korea](https://www.pycon.kr/) (2016.10 ~ 2017.08)
+- [Djangogirls Seoul](https://djangogirls.org/seoul/) Coach (2017.06)
+- [OSS Dev Forum](https://www.facebook.com/groups/ossdevforum/) Hands on Lab Teaching Assistant
 - [Git and Github Instructor](https://onoffmix.com/event/95827)
-- Pycon Korea (2016.10 ~ 2017.08)
+- ETC
 
 ----
 
@@ -146,8 +155,7 @@ I love to attend online courses, online judge, etc.
 ----
 
 ## Etc
-* [Today I Learned](https://til.chann.kr) - Deprecated
-* [Personal Dev Wiki](https://wiki.chann.kr) - Deprecated
-> WIP
+* [Today I Learned](https://til.chann.kr) - Deprecated Temporarily
+* [Personal Dev Wiki](https://wiki.chann.kr) - Deprecated Temporarily
 
 For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>.
