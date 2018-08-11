@@ -12,7 +12,7 @@ I'm CHANN(Heechan Bak), a 28-year-old developer living in Seoul, South Korea. I 
 
 I'd like to make something when I was young, So I made my own homepage using HTML, PHP when I was ten years old in 2000. That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic.
 
-Now I'm interested in Python, Golang, Node.js, ...and all kinds of programming. But my major focus is on server, container orchestration, web, machine learning, automation, dapp, etc. I also have skills in other fields like design and midi composition. I am enthusiastic person with fast adapting skills in new environments.
+Now I'm interested in Python, Golang, Node.js, ...and all kinds of programming. But my major focus is on server, container orchestration, web, machine learning, automation, dApp, etc. I also have skills in other fields like design and midi composition. I am enthusiastic person with fast adapting skills in new environments.
 
 ----
 
@@ -30,13 +30,16 @@ Now I'm interested in Python, Golang, Node.js, ...and all kinds of programming. 
     - Server / Application Configuration Checker (Python, Ansible)
     - Autoscaling Server with Test Automation (Python, PHP)
 - Private Part-Time Programming Jobs
-- ETC
+- [OWDIN Network](https://owdin.network) (2018.01 ~ Present) - Software Engineer
+    - Blockchain Decentralized Application Development (dApp)
+    - Hardware Device Management Tool
+    - Backoffice Management Tool
+- Etc
 
 ### Personal Project
 - [KUPLEZONE](https://kuple.kr) (2010.02 ~ 2016.12) - Korea University (Sejong) Online Service
-- [LAWDY](https://lawdy.kr) (2017.06 ~ 2017.11) - Legaltech Service
+- [LAWDY](https://lawdy.kr) (2017.06 ~ 2017.11) - Legaltech Service (Deprecated)
     - Questionnaire-based Standard Contract Generator
-    - ~~Contracts interact with a DApp (Decentralized Application) (Stopped)~~
 
 ----
 
@@ -65,7 +68,7 @@ I love to attend online courses, online judge, etc.
 * [Udemy](https://www.udemy.com/user/heechan-bak/)
 * [Codecademy](https://www.codecademy.com/channprj)
 * [Codewars](http://www.codewars.com/users/channprj)
-* ETC
+* Etc
 
 ----
 
@@ -79,29 +82,30 @@ I love to attend online courses, online judge, etc.
 | Expert       | I can do everything what I want                    |
 
 ### Programming Language
-- Python (Intermediate Mid, Flavored)
-- Golang (Intermediate Low, Flavored)
+- Python (Intermediate Mid, Favored)
+- Golang (Intermediate Low, Favored)
 - Javascript (Intermediate Low)
-- C/C++ (Basic Low)
+- C/C++ (Basic Mid)
 - Java (Basic Low)
 - PHP (Intermediate Low, Unfavored)
 - HTML, CSS (Intermediate High)
 - Shell (Basic Mid)
 
 ### Backend
-- Django (Intermediate Low)
-- Flask (Intermediate Low)
-- Echo (Basic Mid)
-- Expressjs (Basic Mid)
-- REST API (Intermediate Low)
-- AWS (Basic High)
-- Docker (Basic High)
+- Django (Intermediate Mid, Favored)
+- Flask (Intermediate Mid, Favored)
+- Echo (Basic Mid, Favored)
+- Expressjs (Basic Mid, Favored)
+- REST API (Intermediate Mid)
+- AWS (Intermediate Low)
+- Heroku (Intermediate Low)
+- Docker (Intermediate Low, Favored)
 - MariaDB (Basic High)
 - PostgreSQL (Basic High)
 - MongoDB (Beginner Mid)
 
 ### Frontend
-- React.js (Intermediate Low)
+- React.js (Intermediate Low, Favored)
 - Vue.js (Beginner Low)
 - Ant Design (Intermediate Low)
 - Semantic UI (Intermediate High)
@@ -127,11 +131,14 @@ I love to attend online courses, online judge, etc.
 - [Djangogirls Seoul](https://djangogirls.org/seoul/) Coach (2017.06)
 - [OSS Dev Forum](https://www.facebook.com/groups/ossdevforum/) Hands on Lab Teaching Assistant
 - [Git and Github Instructor](https://onoffmix.com/event/95827)
-- ETC
+- Etc
 
 ----
 
 ## Open Source Contributions
+### Member
+- [OWDIN/EOSocial](https://github.com/owdin/eosocial) - Sample dApp of Votable SNS run by EOS Testnet
+
 ### Pull Requests
 - Update: Translate introduction in Korean [#145](https://github.com/tiimgreen/github-cheat-sheet/pull/145) in tiimgreen/github-cheat-sheet
 - Add: Language version and print output in one line [#11](https://github.com/Baekjoon/submit-tool/pull/11) in Baekjoon/submit-tool
@@ -139,10 +146,6 @@ I love to attend online courses, online judge, etc.
 - Fix: Bithumb Bad Request(Auth Data) - Convert header value to string [#1030](https://github.com/ccxt/ccxt/pull/1030) in ccxt/ccxt
 - Add: Bithumb Private API - Withdraw [#1077](https://github.com/ccxt/ccxt/pull/1077) in ccxt/ccxt
 - Fix: Kakao OAuth Failure - Headers for authorization [#171](https://github.com/python-social-auth/social-core/pull/171) in python-social-auth/social-core
-
-### Issues
-- Fail to install OpenSSL on Ubuntu 14.04.4 LTS [#1053](https://github.com/Linuxbrew/legacy-linuxbrew/issues/1053) in linuxbrew/linuxbrew
-- Download doesn't works in Chrome [#714](https://github.com/zealdocs/zeal/issues/714) in zealdocs/zeal
 
 ----
 
