@@ -1,4 +1,4 @@
-# CHANN ![Job](https://img.shields.io/badge/looking__for__job-false-ff0000.svg)
+# Heechan Bak (CHANN)
 
 <a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
 <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
@@ -8,11 +8,11 @@
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
 ## Who am I
-I'm CHANN(Heechan Bak), a 28-year-old developer living in Seoul, South Korea. I usually produce code, photograph, article, and design. I ride a bicycle or watch movies as a hobby. Sometimes I chitchat on [Twitter](https://twitter.com/channprj) or brag about the food what I eat on [Instagram](https://instagram.com/channprj). Check my [Blog](https://blog.chann.kr) for more information.
+I'm CHANN(Heechan Bak), a 29-year-old developer living in Seoul, South Korea. I usually produce code, photograph, article, and design. I ride a bicycle or watch movies as a hobby. Sometimes I chitchat on [Twitter](https://twitter.com/channprj) or brag about the food what I eat on [Instagram](https://instagram.com/channprj). Check my [Blog](https://blog.chann.kr) for more information.
 
 I'd like to make something when I was young, So I made my own homepage using HTML, PHP when I was ten years old in 2000. That's the first step of my career. Next year, I made *flip-flop card game* and *fake cultureland-gift-ticket generator* using Visual Basic.
 
-Now I'm interested in Python, Golang, Node.js, ...and all kinds of programming. But my major focus is on server, container orchestration, web, machine learning, automation, dApp, etc. I also have skills in other fields like design and midi composition. I am enthusiastic person with fast adapting skills in new environments.
+Now I'm interested in Golang, Python, Node.js, ...and all kinds of programming. But my major focus is on server, container orchestration, web, machine learning, automation, dApp, etc. I also have skills in other fields like design and midi composition. I am enthusiastic person with fast adapting skills in new environments.
 
 ----
 
@@ -34,12 +34,13 @@ Now I'm interested in Python, Golang, Node.js, ...and all kinds of programming. 
     - Blockchain Decentralized Application Development (dApp)
     - Hardware Device Management Tool
     - Backoffice Management Tool
+    - GitLab CI/CD Automation with Docker
 - Etc
 
 ### Personal Project
 - [KUPLEZONE](https://kuple.kr) (2010.02 ~ 2016.12) - Korea University (Sejong) Online Service
-- [LAWDY](https://lawdy.kr) (2017.06 ~ 2017.11) - Legaltech Service (Deprecated)
-    - Questionnaire-based Standard Contract Generator
+- LAWDY (2017.06 ~ 2017.11) - Legaltech Service (Deprecated)
+    - Questionnaire-based Standard Legal Contract Generator
 
 ----
 
@@ -65,8 +66,6 @@ I love to attend online courses, online judge, etc.
 * [Leet Code](https://leetcode.com/channprj/)
 * [Hackerrank](https://www.hackerrank.com/channprj)
 * [Udacity](https://profiles.udacity.com/u/heechanbak)
-* [Udemy](https://www.udemy.com/user/heechan-bak/)
-* [Codecademy](https://www.codecademy.com/channprj)
 * [Codewars](http://www.codewars.com/users/channprj)
 * Etc
 
@@ -119,8 +118,7 @@ I love to attend online courses, online judge, etc.
 - HHKB Pro2 or FC660C
 - iTerm2, Cmder, Hyper
 - Visual Studio Code, Sublime Text
-- Vim (`alias emacs='vim'`)
-- Pycharm, GoLand
+- Vim
 - HTTPie, Postman, Paw
 - Sketch, Photoshop, Illustrator
 
@@ -136,8 +134,6 @@ I love to attend online courses, online judge, etc.
 ----
 
 ## Open Source Contributions
-### Member
-- [OWDIN/EOSocial](https://github.com/owdin/eosocial) - Sample dApp of Votable SNS run by EOS Testnet
 
 ### Pull Requests
 - Update: Translate introduction in Korean [#145](https://github.com/tiimgreen/github-cheat-sheet/pull/145) in tiimgreen/github-cheat-sheet
@@ -146,6 +142,7 @@ I love to attend online courses, online judge, etc.
 - Fix: Bithumb Bad Request(Auth Data) - Convert header value to string [#1030](https://github.com/ccxt/ccxt/pull/1030) in ccxt/ccxt
 - Add: Bithumb Private API - Withdraw [#1077](https://github.com/ccxt/ccxt/pull/1077) in ccxt/ccxt
 - Fix: Kakao OAuth Failure - Headers for authorization [#171](https://github.com/python-social-auth/social-core/pull/171) in python-social-auth/social-core
+- Update: Support reverse order and show payer option - Fix #324 [#464](https://github.com/EOSIO/eosjs/pull/464) in EOSIO/eosjs
 
 ----
 
