@@ -78,7 +78,7 @@ I love to attend online courses, online judge, etc.
 | Basic        | Can read and write code, but not yet comfortable   |
 | Intermediate | Fairly comfortable, though at times need to reference Google or Stack Overflow |
 | Advanced     | Able to teach or advise others                     |
-| Expert       | I can do everything what I want                    |
+| Expert       | I can do everything I want                    |
 
 ### Programming Language
 - Python (Intermediate Mid, Favored)
