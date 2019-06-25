@@ -110,18 +110,6 @@
 
 ----
 
-## Preferred Tool
-- Macbook Pro or ThinkPad X1 Carbon
-- LG Ultra Fine 5K Display or Dell Ultra Sharp 4K Display
-- HHKB Pro2 or FC660C
-- Magic Trackpad 2
-- iTerm2, Cmder, Hyper
-- Visual Studio Code, Sublime Text
-- Vim
-- HTTPie, Postman
-
-----
-
 ## Activities
 - [Pycon Korea](https://www.pycon.kr/) (2016.10 ~ 2017.08)
 - [Djangogirls Seoul](https://djangogirls.org/seoul/) Coach (2017.06)
@@ -155,10 +143,4 @@
 <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
-----
-
-## Etc
-* [Today I Learned](https://til.chann.kr) - Deprecated Temporarily
-* [Personal Dev Wiki](https://wiki.chann.kr) - Deprecated Temporarily
-
-For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>.
+For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
