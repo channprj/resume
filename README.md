@@ -1,19 +1,21 @@
 # Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-true-brightgreen.svg)
 
-<a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
 <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
+<a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
 <a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
 <a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
 <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
+> _Read this in other languages: [English](https://about.chann.kr/en), 한국어(WIP)_
+
 ## Summary
 - Total 2 years and 4 months as a Software Engineer.
+- Automate recursive working area to increase efficiency.
+- Fast adapting skills in new environments and build production grade application.
 - Production-experienced REST API with Golang, Node.js, and Python.
 - Create sleek dashboard with React.js and MobX from the bottom.
 - Savvy in building/operating container-based architecture, container orchestration, and cluster management with kubernetes.
-- Automate recursive working area to increase efficiency.
-- Fast adapting skills in new environments and build production grade application.
 
 ----
 
@@ -73,7 +75,7 @@
 ### Degree
 - Korea University(Sejong) (2010.03 ~ 2017.02)
   - BS in [Computer and Information Science](http://kucis.korea.ac.kr) from [Science and Technology](http://st.korea.ac.kr)
-- Korea University (2012.03 ~ 2017.02)
+- Korea University(Seoul) (2012.03 ~ 2017.02)
   - BS in [Brain and Cognitive Science](http://brain.korea.ac.kr/bcs/) from [Brain and Cognitive Engineering](http://brain.korea.ac.kr/)
 
 ### Extra Courses
@@ -110,7 +112,7 @@
 
 ----
 
-## Activities
+## Activities & Certificates
 - [Pycon Korea](https://www.pycon.kr/) (2016.10 ~ 2017.08)
 - [Djangogirls Seoul](https://djangogirls.org/seoul/) Coach (2017.06)
 - [OSS Dev Forum](https://www.facebook.com/groups/ossdevforum/) Hands on Lab Teaching Assistant
@@ -136,11 +138,5 @@
 - [cleos-zsh-completion](https://github.com/OWDIN/cleos-zsh-completion) - Auto-completion for cleos
 
 ----
-
-## Social Accounts
-<a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
-<a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
-<a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
-<a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
 For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
