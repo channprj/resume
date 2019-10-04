@@ -1,4 +1,4 @@
-# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-true-brightgreen.svg)
+# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-false-red.svg)
 
 <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
 <a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
@@ -27,7 +27,9 @@
 ----
 
 ## Experience
-- [OWDIN Network](https://owdin.network/) (2018.01 ~ Current) - DApp and Backend Developer
+- [December and Company](https://dco.com/) (2019.09 ~ Current) - Backend Developer
+    - [Fint](https://www.fint.co.kr/) API Development
+- [OWDIN Network](https://owdin.network/) (2018.01 ~ 2019.09) - DApp and Backend Developer
     - Blockchain based decentralized application development (DApp)
       - Ethereum, EOS, COSMOS Network
       - Experienced Smart Contract and DApp Development
