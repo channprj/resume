@@ -10,7 +10,7 @@
 > _Read this in other languages: [English](https://about.chann.kr/en), [한국어](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
 
 ## Summary
-- Total 2 years and 4 months as a Software Engineer.
+- Total 3 years and 4 months as a Software Engineer.
 - Automate recursive working area to increase efficiency.
 - Fast adapting skills in new environments and build production grade application.
 - Production-experienced REST API with Golang, Node.js, and Python.
@@ -28,7 +28,8 @@
 
 ## Experience
 - [December and Company](https://dco.com/) (2019.09 ~ Current) - Backend Developer
-    - [Fint](https://www.fint.co.kr/) API Development
+    - [Fint](https://www.fint.co.kr/) API
+    - Backoffice Management Tool
 - [OWDIN Network](https://owdin.network/) (2018.01 ~ 2019.09) - DApp and Backend Developer
     - Blockchain based decentralized application development (DApp)
       - Ethereum, EOS, COSMOS Network
