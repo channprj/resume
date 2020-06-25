@@ -69,7 +69,7 @@
 
 ### Personal Project
 - [KUPLEZONE](https://kuple.kr/) (2010.02 ~ 2016.12) - Korea University (Sejong) Online Service
-- [LAWDY](https://lawdy.chann.kr/) (2017.06 ~ 2017.11) - Legaltech Service (Deprecated)
+- LAWDY (2017.06 ~ 2017.11) - Legaltech Service (Deprecated)
     - Questionnaire-based Standard Legal Contract Generator
 
 ----
