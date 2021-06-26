@@ -1,4 +1,4 @@
-# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-false-red.svg)
+# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-false-red.svg) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchannprj%2Fresume)](https://hits.seeyoufarm.com)
 
 <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
 <a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
