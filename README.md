@@ -1,13 +1,16 @@
 # Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-false-red.svg) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchannprj%2Fresume)](https://hits.seeyoufarm.com)
 
-<a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
-<a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
-<a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
-<a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
-<a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
-<a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
-
 > _Read this in other languages: [한국어 🇰🇷](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
+
+<p align="center">
+  <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="mailto:chann@chann.kr"><img src="https://img.shields.io/badge/email-channprj-ea4335.svg?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-303030.svg" alt="Blog" /></a>
+  <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg?style=flat&logo=twitter" alt="Twitter" /></a>
+  <a href="https://fb.com/channprj"><img src="https://img.shields.io/badge/facebook-channprj-3b5998.svg?style=flat&logo=facebook" alt="Facebook" /></a>
+  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
+  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg?style=flat&logo=linkedin" alt="Linkedin" /></a>
+</p>
 
 ## Summary
 - Total over 5 years as a Software Engineer.
@@ -151,4 +154,4 @@
 
 ----
 
-For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
+For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-channprj-ea4335.svg?style=flat&logo=gmail)</a>
