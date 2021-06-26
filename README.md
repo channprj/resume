@@ -7,10 +7,10 @@
 <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
 <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
 
-> _Read this in other languages: [English](https://about.chann.kr/en), [한국어](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
+> _Read this in other languages: [한국어 🇰🇷](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
 
 ## Summary
-- Total over 4 years as a Software Engineer.
+- Total over 5 years as a Software Engineer.
 - Automate recursive working area to increase efficiency.
 - Fast adapting skills in new environments and build production grade application.
 - Production-experienced REST API with Golang, Node.js, and Python.
