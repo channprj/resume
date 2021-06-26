@@ -32,7 +32,7 @@
 - [December and Company](https://dco.com/) (2019.09 ~ Current) - Backend Developer
   - [Fint](https://www.fint.co.kr/) API
   - Backoffice Management Tool
-- [OWDIN Network](https://owdin.network/) (2018.01 ~ 2019.09) - DApp and Backend Developer
+- OWDIN Network(Closed) (2018.01 ~ 2019.09) - DApp and Backend Developer
   - Blockchain based decentralized application development (DApp)
     - Ethereum, EOS, COSMOS Network
     - Experienced Smart Contract and DApp Development
@@ -53,7 +53,7 @@
   - Stand-up Meeting Chatbot on Slack
     - Answer the simple question to chatbot
     - Switch to asynchronous daily meetings
-- LAWDY(Service closed) (2017.05 ~ 2017.11) - Software Engineer and Founding member of legaltech startup
+- LAWDY(Closed) (2017.05 ~ 2017.11) - Software Engineer and Founding member of legaltech startup
   - Questionnaire-based standard legal contract generator
   - Research blockchain for adopting notarization of a legal contract
   - Tech stack : Django, Semantic UI, Docker, MySQL, Ethereum, etc.
@@ -81,9 +81,9 @@
 ## Education
 ### Degree
 - Korea University(Sejong) (2010.03 ~ 2017.02)
-  - BS in [Computer and Information Science](http://kucis.korea.ac.kr) from [Science and Technology](http://st.korea.ac.kr)
+  - B.E. in [Computer and Information Science](http://software.korea.ac.kr)
 - Korea University(Seoul) (2012.03 ~ 2017.02)
-  - BS in [Brain and Cognitive Science](http://brain.korea.ac.kr/bcs/) from [Brain and Cognitive Engineering](http://brain.korea.ac.kr/)
+  - B.Sci. in [Brain and Cognitive Science](http://brain.korea.ac.kr)
 
 ### Extra Courses
 - Seoul National University, Institute of Computer Technology (2014.07 ~ 2014.09)
