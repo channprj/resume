@@ -3,7 +3,6 @@
 > _Read this in other languages: [한국어 🇰🇷](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
 
 <p align="center">
-  <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="mailto:chann@chann.kr"><img src="https://img.shields.io/badge/email-channprj-ea4335.svg?style=flat&logo=gmail" alt="Email" /></a>
   <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-303030.svg" alt="Blog" /></a>
   <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg?style=flat&logo=twitter" alt="Twitter" /></a>
