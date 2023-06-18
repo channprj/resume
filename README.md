@@ -35,8 +35,8 @@
   - [Fint](https://www.fint.co.kr/) API (Python, Django, Docker, etc.)
   - Openbanking deposit batch, installment transfer batch, etc. (Python, Django, etc.)
   - Electronic Signature for non-repudiation process. (Python with RSA Package)
-  - Backoffice Management Tool aka PREFACE (Python, Django, Docker, React.js, etc.)
-  - Production-experienced in-app webview and deeplink development (Next.js, etc.)
+  - Backoffice Management Tool (Python, Django, Docker, React.js, etc.)
+  - Production-experienced [in-app webview](https://n.news.naver.com/mnews/article/018/0005354262?sid=101) and deeplink development (Next.js, etc.)
 - OWDIN Network(Closed) (2018.01 ~ 2019.09, 1y 9m) - DApp and Backend Developer
   - Blockchain based decentralized application development (DApp)
     - Ethereum, EOS, COSMOS Network
