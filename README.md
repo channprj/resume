@@ -1,38 +1,43 @@
-# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-false-red.svg) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchannprj%2Fresume)](https://hits.seeyoufarm.com)
+# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-true-green.svg) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchannprj%2Fresume)](https://hits.seeyoufarm.com)
 
-> _Read this in other languages: [한국어 🇰🇷](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
+> _Read this in other languages: [한국어(KR) 🇰🇷](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
 
 <p align="center">
   <a href="mailto:chann@chann.kr"><img src="https://img.shields.io/badge/email-channprj-ea4335.svg?style=flat&logo=gmail" alt="Email" /></a>
   <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-303030.svg" alt="Blog" /></a>
   <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg?style=flat&logo=twitter" alt="Twitter" /></a>
-  <a href="https://fb.com/channprj"><img src="https://img.shields.io/badge/facebook-channprj-3b5998.svg?style=flat&logo=facebook" alt="Facebook" /></a>
   <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
   <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg?style=flat&logo=linkedin" alt="Linkedin" /></a>
 </p>
 
 ## Summary
-- Total over 5 years as a Software Engineer.
-- Automate recursive working area to increase efficiency.
-- Fast adapting skills in new environments and build production grade application.
-- Production-experienced REST API with Golang, Node.js, and Python.
-- Create sleek dashboard with React.js and MobX from the bottom.
-- Savvy in building/operating container-based architecture, container orchestration, and cluster management with kubernetes.
 
-----
+- Total over 7 years as a Software Engineer.
+- Automate recursive tasks to increase efficiency.
+- Fast adapting skills in new environments and build production grade application.
+- Production-experienced API and gRPC with Python, Golang, Node.js, etc.
+- Create sleek dashboard with React.js and MobX, Jotai, etc. from the bottom.
+- Savvy in building/operating container-based architecture, and hobby-experienced kubernetes.
+
+---
 
 ## Profile
-* **Name** : Heechan Bak
-* **Address** : Seoul
-* **Language** : Korean (Native), English (Limited Working Proficiency)
 
-----
+- **Name** : Heechan Bak
+- **Address** : Seoul
+- **Language** : Korean (Native), English (Limited Working Proficiency)
+
+---
 
 ## Experience
-- [December and Company](https://dco.com/) (2019.09 ~ Current) - Backend Developer
-  - [Fint](https://www.fint.co.kr/) API
-  - Backoffice Management Tool
-- OWDIN Network(Closed) (2018.01 ~ 2019.09) - DApp and Backend Developer
+
+- [December and Company Inc.](https://dco.com/) (2019.09 ~ Current, over 3y) - Backend Developer
+  - [Fint](https://www.fint.co.kr/) API (Python, Django, Docker, etc.)
+  - Openbanking deposit batch, installment transfer batch, etc. (Python, Django, etc.)
+  - Electronic Signature for non-repudiation process. (Python with RSA Package)
+  - Backoffice Management Tool aka PREFACE (Python, Django, Docker, React.js, etc.)
+  - Production-experienced in-app webview and deeplink development (Next.js, etc.)
+- OWDIN Network(Closed) (2018.01 ~ 2019.09, 1y 9m) - DApp and Backend Developer
   - Blockchain based decentralized application development (DApp)
     - Ethereum, EOS, COSMOS Network
     - Experienced Smart Contract and DApp Development
@@ -53,11 +58,11 @@
   - Stand-up Meeting Chatbot on Slack
     - Answer the simple question to chatbot
     - Switch to asynchronous daily meetings
-- LAWDY(Closed) (2017.05 ~ 2017.11) - Software Engineer and Founding member of legaltech startup
+- LAWDY(Closed) (2017.05 ~ 2017.12, 7m) - Software Engineer and Founding member of legaltech startup
   - Questionnaire-based standard legal contract generator
   - Research blockchain for adopting notarization of a legal contract
   - Tech stack : Django, Semantic UI, Docker, MySQL, Ethereum, etc.
-- [Cafe24](https://cafe24corp.com/) (2016.08 ~ 2017.04) - Backend Developer
+- [Cafe24](https://cafe24corp.com/) (2016.08 ~ 2017.04, 9m) - Backend Developer
   - Varnish Cache Checker
     - Read apache weblog and check static assets cached or not
     - Send alarm message to operations manager if assets does not cached
@@ -70,22 +75,26 @@
     - Check apache congif, db config, etc. automatically
     - Send alarm message to operations manager if config is invalid
     - Python(Django) and jQuery for frontend, python, ansible for backend
-- [NHN Entertainment](http://www.nhnent.com) 1st CodeCamp (2015.06 ~ 2015.08) - Bootcamp of newbie developer
+- [NHN Entertainment](http://www.nhnent.com) 1st CodeCamp (2015.06 ~ 2015.08, 3m) - Bootcamp of newbie developer
   - [Frieday](https://github.com/channprj/frieday) - Gamification service of ordering chicken ([slide](https://www.slideshare.net/channprj/frieday))
 
 ### Personal Project
+
 - [KUPLEZONE](https://kuple.kr/) (2010.02 ~ 2016.12) - Korea University (Sejong) Online Service
 
-----
+---
 
 ## Education
+
 ### Degree
+
 - Korea University(Sejong) (2010.03 ~ 2017.02)
   - B.E. in [Computer and Information Science](http://software.korea.ac.kr)
 - Korea University(Seoul) (2012.03 ~ 2017.02)
   - B.Sci. in [Brain and Cognitive Science](http://brain.korea.ac.kr)
 
 ### Extra Courses
+
 - Seoul National University, Institute of Computer Technology (2014.07 ~ 2014.09)
   - A course in [Multicore Programming](http://aces.snu.ac.kr/) on [supercomputer(Chundoong)](http://chundoong.snu.ac.kr/)
   - Coursework: C, Linux, Pthread, OpenMP, OpenCL, MPI
@@ -93,17 +102,19 @@
   - A course in Wearable Device Programming(IoT)
   - Coursework: Android, JSP, IoT, Server, API
 
-----
+---
 
 ## Skills
 
 ### Programming Language
+
 - Golang (Favored)
 - Python (Favored)
-- JavaScript (ES6)
+- JavaScript
 - TypeScript
 
 ### Frameworks and Libraries
+
 - Echo, xorm
 - Django, Flask
 - Express.js
@@ -114,13 +125,15 @@
 - Terraform
 
 ### DB
-- MySQL (or MariaDB)
+
+- MariaDB (or MySQL)
 - PostgreSQL
 - MongoDB
 
-----
+---
 
 ## Activities & Certificates
+
 - [Production Machine Learning Systems](https://www.coursera.org/account/accomplishments/verify/D32ELSS7EELX) - Coursera (2019-07)
 - [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/account/accomplishments/verify/BTE5MP57XAU7) - Coursera (2019-07)
 - [Launching into Machine Learning](https://www.coursera.org/account/accomplishments/verify/PS6H77D9BHNL) - Coursera (2019-05)
@@ -134,11 +147,12 @@
 - [Pycon Korea](https://www.pycon.kr/) (2016-10 ~ 2017-08)
 - Etc
 
-----
+---
 
 ## Open Source Contributions
 
 ### Pull Requests
+
 - Add: Add federated search and change header style [#55](https://github.com/planetarium/libplanet-explorer-frontend/pull/55) in planetarium/libplanet-explorer-frontend
 - Update: Support reverse order and show payer option - Fix #324 [#464](https://github.com/EOSIO/eosjs/pull/464) in EOSIO/eosjs
 - Fix: Kakao OAuth Failure - Headers for authorization [#171](https://github.com/python-social-auth/social-core/pull/171) in python-social-auth/social-core
@@ -149,8 +163,9 @@
 - Update: Translate introduction in Korean [#145](https://github.com/tiimgreen/github-cheat-sheet/pull/145) in tiimgreen/github-cheat-sheet
 
 ### Maintained
+
 - [cleos-zsh-completion](https://github.com/OWDIN/cleos-zsh-completion) - Auto-completion for cleos
 
-----
+---
 
 For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-channprj-ea4335.svg?style=flat&logo=gmail)</a>
