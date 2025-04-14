@@ -1,4 +1,4 @@
-# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-true-green.svg) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchannprj%2Fresume)](https://hits.seeyoufarm.com)
+# Park Hee Chan (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-true-green.svg)
 
 > _Read this in other languages: [한국어(KR) 🇰🇷](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
 
