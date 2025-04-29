@@ -5,26 +5,27 @@
 <p align="center">
   <a href="mailto:chann@chann.kr"><img src="https://img.shields.io/badge/email-channprj-ea4335.svg?style=flat&logo=gmail" alt="Email" /></a>
   <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-303030.svg" alt="Blog" /></a>
-  <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg?style=flat&logo=twitter" alt="Twitter" /></a>
-  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
-  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg?style=flat&logo=linkedin" alt="Linkedin" /></a>
+  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/LinkedIn-channprj-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/channprj"><img src="https://img.shields.io/badge/channprj-black.svg?style=flat&logo=x" alt="X" /></a>
+  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
 </p>
 
 ## Summary
 
-- Total over 7 years as a Software Engineer.
-- Automate recursive tasks to increase efficiency.
+- Total over 8 years as a Product Software Engineer
+- Developed AI-based investment services serving over 1M users and built scalable global fandom platforms that reached 1M+ users rapidly
+- Adept at evaluating timelines, resources, complexities, and both internal and external factors to determine practical solutions
 - Fast adapting skills in new environments and build production grade application.
-- Production-experienced API and gRPC with Python, Golang, Node.js, etc.
-- Create sleek dashboard with React.js and MobX, Jotai, etc. from the bottom.
+- Production-experienced REST API, GraphQL, gRPC with Python, Go, TypeScript, etc.
+- Passionate about automating repetitive tasks and enhancing productivity for individuals and teams.
 - Savvy in building/operating container-based architecture, and hobby-experienced kubernetes.
 
 ---
 
 ## Profile
 
-- **Name** : Heechan Bak
-- **Address** : Seoul
+- **Name** : Park Hee Chan
+- **Address** : Eunpyeong-gu, Seoul
 - **Language** : Korean (Native), English (Limited Working Proficiency)
 
 ---
@@ -104,34 +105,6 @@
 
 ---
 
-## Skills
-
-### Programming Language
-
-- Golang (Favored)
-- Python (Favored)
-- JavaScript
-- TypeScript
-
-### Frameworks and Libraries
-
-- Echo, xorm
-- Django, Flask
-- Express.js
-- React.js, MobX, Ant Design
-- Docker, Kubernetes
-- GitLab CI/CD, Jenkins
-- RabbitMQ, Redis
-- Terraform
-
-### DB
-
-- MariaDB (or MySQL)
-- PostgreSQL
-- MongoDB
-
----
-
 ## Activities & Certificates
 
 - [Production Machine Learning Systems](https://www.coursera.org/account/accomplishments/verify/D32ELSS7EELX) - Coursera (2019-07)
@@ -153,6 +126,7 @@
 
 ### Pull Requests
 
+-
 - Add: Add federated search and change header style [#55](https://github.com/planetarium/libplanet-explorer-frontend/pull/55) in planetarium/libplanet-explorer-frontend
 - Update: Support reverse order and show payer option - Fix #324 [#464](https://github.com/EOSIO/eosjs/pull/464) in EOSIO/eosjs
 - Fix: Kakao OAuth Failure - Headers for authorization [#171](https://github.com/python-social-auth/social-core/pull/171) in python-social-auth/social-core
